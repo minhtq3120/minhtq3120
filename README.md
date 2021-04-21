@@ -1,7 +1,7 @@
-###😄😄😄😄 dark dark bruh bruh lmao 😄😄😄😄
+                            😄😄😄😄 Dảk Dảk Bủh Bủh lmao 😄😄😄😄
 
-![alt text](https://mcdn.wallpapersafari.com/medium/10/51/cxWZpl.jpg)
 
+![a building](https://csgopedia.com/uploads/blog/image042.jpg)
 <!--
 **minhglhf/minhglhf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
