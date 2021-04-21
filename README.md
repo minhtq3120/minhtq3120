@@ -1,7 +1,7 @@
-                            😄😄😄😄 Dảk Dảk Bủh Bủh lmao 😄😄😄😄
+                            
+<p align="center" >😄😄😄😄 Dảk Dảk Bủh Bủh lmao 😄😄😄😄</p>
 
-
-![a building](https://csgopedia.com/uploads/blog/image042.jpg)
+![a building](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/74cfe322925791.5631a88c1949e.png)
 <!--
 **minhglhf/minhglhf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
