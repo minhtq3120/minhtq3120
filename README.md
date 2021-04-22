@@ -1,18 +1,15 @@
-                            
-<p align="center" >😄😄😄😄 Dảk Dảk Bủh Bủh lmao 😄😄😄😄</p>
-
-![a building](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/74cfe322925791.5631a88c1949e.png)
-<!--
-**minhglhf/minhglhf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+<br>
+<br>
+<br>
+<img src="https://media.giphy.com/media/gh08oFnHepVko5TmuO/giphy.gif">
