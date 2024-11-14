@@ -6,4 +6,3 @@
 <br>
 <br>
 <br>
-<img src="https://media.giphy.com/media/gh08oFnHepVko5TmuO/giphy.gif">
